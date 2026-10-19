@@ -8,3 +8,9 @@ evidentira posuđivanje i povrat knjiga.
 - Član biblioteke
 - Bibliotekar
 - Direktor biblioteke
+
+## Osnovni zahtjevi
+- Član može pretražiti knjige po naslovu ili autoru.
+- Član može pregledati popis svojih posuđivanja.
+- Bibliotekar može evidentirati posuđiavnje i povrat knjige.
+
