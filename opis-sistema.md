@@ -14,3 +14,4 @@ evidentira posuđivanje i povrat knjiga.
 - Član može pregledati popis svojih posuđivanja.
 - Bibliotekar može evidentirati posuđiavnje i povrat knjige.
 
+- Član može rezervirati knjigu koja je trenutačno posuđena.
